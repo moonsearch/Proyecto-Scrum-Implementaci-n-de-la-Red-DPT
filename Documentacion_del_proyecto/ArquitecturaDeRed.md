@@ -21,4 +21,6 @@ un EtherChannel para dar más ancho de banda y tolerancia a fallos.
 
 - Los equipos finales **DOC1** (Docentes), **EST1** (Estudiantes) y **GES1** (Gestión) se
 conectan a los switches de acceso.
+
+**Topologia de la red**
 <img width="1597" height="537" alt="Topologia DPT" src="https://github.com/user-attachments/assets/5b977faf-5aa9-4210-b433-dac9214a73a1" />
