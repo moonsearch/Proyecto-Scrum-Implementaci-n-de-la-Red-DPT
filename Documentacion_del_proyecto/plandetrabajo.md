@@ -14,6 +14,7 @@ redes junto a su equipo de desarrolladores (DevTeam), Oscar Mesa y Franklin Mend
 - Revisar la documentación final y verificar que cumpla con el backlog.
 
 **Development Team:**
+
 Integrante:  Franklin Mendrano
 
 - Diseñar y configurar las VLANs y VTP.
