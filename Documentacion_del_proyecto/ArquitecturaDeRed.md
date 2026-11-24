@@ -23,4 +23,23 @@ un EtherChannel para dar más ancho de banda y tolerancia a fallos.
 conectan a los switches de acceso.
 
 **Topologia de la red**
+
 <img width="1597" height="537" alt="Topologia DPT" src="https://github.com/user-attachments/assets/5b977faf-5aa9-4210-b433-dac9214a73a1" />
+
+**1.1 Dispositivos de la Red**
+Los dispositivos necesarios para la implementación de la red:
+| Cantidad | Dispositivo | Nombre | Función |
+|:------:|:--------:|-------------|--------|
+| 1 | Router | R1 | Router-on-a-stick para la Zona 2 y enlace P2P hacia SWM1 |
+| 1 | Switch Capa 3 | SWM1 | Enrutamiento inter-VLAN con SVI en la Zona 1 |
+| 4 | Switch Capa 2 | SW2, SW3, SW4, SW5 | Acceso de usuarios, servidor y troncales |
+
+**1.2 Dispositivos finales**
+| Cantidad | Dispositivo | Nombre | VLAN/LAN |
+|:--------:|-------------|--------|----------|
+| 1 | Servidor | SRV1 | LAN Datacenter |
+| 1 | PC | FIN1 | Finanzas |
+| 1 | PC | ACA1 | Académicos |
+| 1 | PC | DOC1 | Docentes |
+| 1 | PC | EST1 | Estudiantes |
+| 1 | PC | GES1 | Gestión |
