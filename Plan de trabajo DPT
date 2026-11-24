@@ -14,14 +14,14 @@ redes junto a su equipo de desarrolladores (DevTeam), Oscar Mesa y Franklin Mend
 - Revisar la documentación final y verificar que cumpla con el backlog.
 
 **Development Team:**
-Integrante: Oscar Mesa
+Integrante:  Franklin Mendrano
 
 - Diseñar y configurar las VLANs y VTP.
 - Configurar la Zona 1: SWM1 (switch capa 3, SVI) y sus switches de acceso.
 - Configurar SSH en los dispositivos de la Zona 1.
 - Participar en las pruebas de conectividad.
 
-Integrante: Franklin Mendrano
+Integrante: Oscar Mesa
 
 - Configurar la Zona 2: R1 (router-on-a-stick), SW4 y SW5, incluido el EtherChannel.
 - Configurar SSH en los dispositivos de la Zona 2.
