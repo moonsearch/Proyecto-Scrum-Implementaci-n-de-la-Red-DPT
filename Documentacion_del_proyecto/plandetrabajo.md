@@ -1,4 +1,4 @@
-PLAN DE TRABAJO
+**PLAN DE TRABAJO**
 
 La empresa **DOÑA PANCH TECH**, representada por su Gerente de TI Onel Luis
 Pelegrino, quien desempeña el rol de Product Owner ha solicitado el diseño de una red
