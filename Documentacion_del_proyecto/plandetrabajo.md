@@ -32,5 +32,7 @@ Integrante: Oscar Mesa
  **Plan de Trabajo (3 Sprints – 1 semana)**
 
 Sprint 1 – **Diseño** (Semana 1) Objetivo: Diseño de red, direccionamiento, VLANs y topología.
+
 Sprint 2 – **Implementación** (Semana 2) Objetivo: Configuración en dispositivos. 
+
 Sprint 3 – **Evaluación y pruebas** (Semana 3) Objetivo: Validar y documentar la red. 
