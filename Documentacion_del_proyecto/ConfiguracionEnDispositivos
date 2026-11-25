@@ -1,1 +1,17 @@
+Configuración en Dispositivos:
 
+Las credenciales utilizadas son:  
+
+usuario: admin   clave: admin123       
+
+enable secret: cisco123 
+
+Dominio SSH: donapanch.local 
+
+Dominio VTP izquierdo: DONAPANCHTECH  (SWM1 server; SW y SW3 client) 
+
+Dominio VTP derecho: DONAPANCHTECH2 (SW4 server; SW5 client) 
+
+IPv6 en los PCs por SLAAC (los routers/SVIs envian RA automaticamente). 
+
+Nativa izquierda = VLAN 90 | Nativa derecha = VLAN 80 
